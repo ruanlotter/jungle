@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 250,
+    "left": 0,
+    "width": 1200,
+    "height": 1600,
+    "isRotated": false,
+    "originalWidth": 1200,
+    "originalHeight": 2100
+  },
+  "imagePath": "image-targets/ImageTarget_Jungle_luminance.png",
+  "metadata": null,
+  "name": "ImageTarget_Jungle",
+  "resources": {
+    "originalImage": "ImageTarget_Jungle_original.png",
+    "croppedImage": "ImageTarget_Jungle_cropped.png",
+    "thumbnailImage": "ImageTarget_Jungle_thumbnail.png",
+    "luminanceImage": "ImageTarget_Jungle_luminance.png"
+  },
+  "created": 1795693091820,
+  "updated": 1795693091820
+}
